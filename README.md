@@ -16,7 +16,7 @@ After looking at the 50 Data sets to choose from, this project looks into review
 
 Link to the Vine dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Download_v1_00.tsv.gz
 
-The data was cleaned, rows with less than 20 votes were filtered 
+The data was cleaned, as well as rows with less than 20 votes and the rows where the number of helpful votes divided by total votes is equal to or greater than 50% we also filtered out. 
 
 ### How many Vine reviews and non-Vine reviews were there?
 
