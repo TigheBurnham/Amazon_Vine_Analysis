@@ -26,7 +26,7 @@ The data was cleaned, as well as rows with less than 20 votes and the rows where
 
 <img width="588" alt="nvp_count" src="https://user-images.githubusercontent.com/112028534/212220617-01a406a2-fca4-4c6c-9cc7-16ad9a00e778.png">
 
-- Based ont he image above there were 11,362 total non vine reviews.
+- Based on the image above there were 11,362 total non vine reviews.
 
 ### How many Vine reviews were 5 stars? 
 
@@ -36,7 +36,7 @@ The data was cleaned, as well as rows with less than 20 votes and the rows where
 
 <img width="122" alt="total_5_star" src="https://user-images.githubusercontent.com/112028534/212221389-0382ca40-d617-4c3e-87ea-274aa8139168.png">
 
-- There were 4,670 total 5 star reviews that were non-Vine. 
+- As we can see there were 4,670 total 5 star reviews that were non-Vine. 
 
 ### What percentage of Vine reviews were 5 stars? 
 
